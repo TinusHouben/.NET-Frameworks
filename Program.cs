@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Linq;  // Nodig voor First() en Last()
+using System.Linq; 
 
 namespace Omkeren
 {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Oefening Condities en iteraties")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f334a6452ca1ff76ec3f7d8f14ef8b0b90b3fb98")]
 [assembly: System.Reflection.AssemblyProductAttribute("Oefening Condities en iteraties")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Oefening Condities en iteraties")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
