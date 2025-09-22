@@ -1,0 +1,14 @@
+C:\Users\guyho\source\repos\Oefening Condities en iteraties\Oefening Condities en iteraties\bin\Debug\net8.0\Oefening Condities en iteraties.exe
+C:\Users\guyho\source\repos\Oefening Condities en iteraties\Oefening Condities en iteraties\bin\Debug\net8.0\Oefening Condities en iteraties.deps.json
+C:\Users\guyho\source\repos\Oefening Condities en iteraties\Oefening Condities en iteraties\bin\Debug\net8.0\Oefening Condities en iteraties.runtimeconfig.json
+C:\Users\guyho\source\repos\Oefening Condities en iteraties\Oefening Condities en iteraties\bin\Debug\net8.0\Oefening Condities en iteraties.dll
+C:\Users\guyho\source\repos\Oefening Condities en iteraties\Oefening Condities en iteraties\bin\Debug\net8.0\Oefening Condities en iteraties.pdb
+C:\Users\guyho\source\repos\Oefening Condities en iteraties\Oefening Condities en iteraties\obj\Debug\net8.0\Oefening Condities en iteraties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guyho\source\repos\Oefening Condities en iteraties\Oefening Condities en iteraties\obj\Debug\net8.0\Oefening Condities en iteraties.AssemblyInfoInputs.cache
+C:\Users\guyho\source\repos\Oefening Condities en iteraties\Oefening Condities en iteraties\obj\Debug\net8.0\Oefening Condities en iteraties.AssemblyInfo.cs
+C:\Users\guyho\source\repos\Oefening Condities en iteraties\Oefening Condities en iteraties\obj\Debug\net8.0\Oefening Condities en iteraties.csproj.CoreCompileInputs.cache
+C:\Users\guyho\source\repos\Oefening Condities en iteraties\Oefening Condities en iteraties\obj\Debug\net8.0\Oefening Condities en iteraties.dll
+C:\Users\guyho\source\repos\Oefening Condities en iteraties\Oefening Condities en iteraties\obj\Debug\net8.0\refint\Oefening Condities en iteraties.dll
+C:\Users\guyho\source\repos\Oefening Condities en iteraties\Oefening Condities en iteraties\obj\Debug\net8.0\Oefening Condities en iteraties.pdb
+C:\Users\guyho\source\repos\Oefening Condities en iteraties\Oefening Condities en iteraties\obj\Debug\net8.0\Oefening Condities en iteraties.genruntimeconfig.cache
+C:\Users\guyho\source\repos\Oefening Condities en iteraties\Oefening Condities en iteraties\obj\Debug\net8.0\ref\Oefening Condities en iteraties.dll
